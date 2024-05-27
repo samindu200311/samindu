@@ -13,5 +13,7 @@ public class Main {
         obj3.Rangers();
         obj3.Fire();
 
+        System.out.println("Dashan");
+
     }
 }
